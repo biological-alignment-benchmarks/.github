@@ -1,4 +1,10 @@
-<!-- ## Hi there 👋 -->
+<!-- 
+Copyright 2026 Roland Pihlakas. All Rights Reserved.
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA. 
+-->
+
 👋 We are an AI alignment research collective investigating how principles from **biology and economics** can inform safer, more aligned AI systems. 
 
 Our work centres on **homeostasis, multi-objective balancing, sustainability**, and **universal human values** — drawing from nature's time-tested strategies for maintaining equilibrium — to develop **benchmarks** that expose dangerous failure modes in current AI approaches. 
@@ -17,15 +23,3 @@ We also research frameworks that **mitigate** these risks. We believe that shift
 * Sustainability
 * Proactive horizon scanning of side effects
 * Accountability mechanisms and whitelisting
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
