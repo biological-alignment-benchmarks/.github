@@ -1,5 +1,5 @@
 <!-- ## Hi there 👋 -->
-👋 We are an AI alignment research collective investigating how principles from biology and economics can inform safer, more aligned AI systems. 
+👋 We are an AI alignment research collective investigating how principles from **biology and economics** can inform safer, more aligned AI systems. 
 
 Our work centres on **homeostasis, multi-objective balancing, sustainability**, and **universal human values** — drawing from nature's time-tested strategies for maintaining equilibrium — to develop **benchmarks** that expose dangerous failure modes in current AI approaches. 
 
